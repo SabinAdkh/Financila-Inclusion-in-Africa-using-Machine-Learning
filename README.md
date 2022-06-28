@@ -1,1 +1,1 @@
-# Financila-Inclusion-in-Africa-using-Machine-Learning
+# Financial_Inclusion_Using_Machine_Learning

@@ -1,0 +1,10 @@
+pandas_profiling
+ipywidgets
+pandas
+matplotlib
+seaborn
+catboost
+xgboost
+lightgbm
+imblearn
+scikit-learn
